@@ -1,1 +1,2 @@
-Laura tiene 23 años y quiere ser cientifica de datos
+Laura tiene 23 años y quiere ser cientifica de datos,
+Nacio en Colombia
